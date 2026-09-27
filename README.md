@@ -12,11 +12,6 @@ The final setup used a gain-11 amplifier, a 10 MΩ shunt resistor, an Arduino Na
 
 ![Final measurement circuit with LCD](images/final-measurement-circuit.jpg)
 
-The final circuit was assembled on prototyping board. The LCD displayed the Arduino measurement, while the transistor connected through a dedicated holder.
-
-![Circuit with LCD display](images/circuit-with-display.jpg)
-
-![MOSFET transistor holder](images/transistor-holder.jpg)
 
 ## Development
 
