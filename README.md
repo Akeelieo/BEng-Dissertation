@@ -10,9 +10,16 @@ The final setup used a gain-11 amplifier, a 10 MΩ shunt resistor, an Arduino Na
 
 ## Hardware
 
-<p align="center">
-  <img src="images/final-measurement-circuit.jpg" alt="Final measurement circuit with LCD" width="400">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/final-measurement-circuit.jpg" alt="Final measurement circuit with LCD" width="360">
+    </td>
+    <td align="center">
+      <img src="images/circuit-with-display.jpg" alt="Circuit with LCD display" width="360">
+    </td>
+  </tr>
+</table>
 
 
 ## Development
